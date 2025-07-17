@@ -1,5 +1,0 @@
-docker run -d \
-    --name evolution-api \
-    -p 8080:8080 \
-    -e AUTHENTICATION_API_KEY=4diWnm3fOZhgcVuS43Qen93wLZHEuKlCGVD \
-    atendai/evolution-api
